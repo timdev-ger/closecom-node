@@ -50,7 +50,7 @@
   "bugs": {
     "url": "https://github.com/timdev-ger/closecrm-node/issues"
   },
-  "homepage": "https://github.com/timdev-ger/closecrm-node#readme",
+  "homepage": "https://timdev.info",
   "engines": {
     "node": ">=18.0.0"
   },
